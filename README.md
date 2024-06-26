@@ -17,4 +17,4 @@
    - предобработка исходных данных для формирования дашборда;
    - статистическая проверка гипотез;
    - библиотеки: *pandas, numpy, matplotlib, statsmodels*.
-2. **[Дашборд](https://datalens.yandex/oa9gdxk4re3gc)**
+2. **[Дашборд](https://datalens.yandex/oa9gdxk4re3gc)** (Yandex DataLens)
